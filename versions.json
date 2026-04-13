@@ -1,0 +1,40 @@
+{
+  "platforms": {
+    "windows": {
+      "latest_version": "0.1.0",
+      "minimum_supported_version": "1.0.0",
+      "force_update": false,
+      "download_url": "",
+      "release_date": "2026-03-10",
+      "changelog": [
+        "Improved connection stability",
+        "Added new VPN servers",
+        "Fixed login bug"
+      ]
+    },
+    "macos": {
+      "latest_version": "0.1.0",
+      "minimum_supported_version": "1.0.0",
+      "force_update": false,
+      "download_url": "",
+      "release_date": "2026-03-10",
+      "changelog": [
+        "Improved connection stability",
+        "Added new VPN servers",
+        "Fixed login bug"
+      ]
+    },
+    "linux": {
+      "latest_version": "0.1.0",
+      "minimum_supported_version": "1.0.0",
+      "force_update": false,
+      "download_url": "",
+      "release_date": "2026-03-10",
+      "changelog": [
+        "Improved connection stability",
+        "Added new VPN servers",
+        "Fixed login bug"
+      ]
+    }
+  }
+}
