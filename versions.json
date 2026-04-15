@@ -1,7 +1,7 @@
 {
   "platforms": {
     "windows": {
-      "latest_version": "0.1.0",
+      "latest_version": "0.1.1",
       "minimum_supported_version": "1.0.0",
       "force_update": false,
       "download_url": "",
