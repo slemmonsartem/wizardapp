@@ -3,7 +3,7 @@
     "windows": {
       "latest_version": "0.1.1",
       "minimum_supported_version": "1.0.0",
-      "force_update": false,
+      "force_update": true,
       "download_url": "",
       "release_date": "2026-03-10",
       "changelog": [
